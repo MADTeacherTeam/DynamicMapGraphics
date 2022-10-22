@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="images/editdelete.png">images/icons/editdelete.png</file>
+        <file alias="images/edit_add.png">images/icons/edit_add.png</file>
+        <file alias="images/drag.png">images/icons/drag.png</file>
+        <file alias="images/palette.png">images/icons/palette.png</file>
+        <file alias="images/slpine.png">images/icons/spline.png</file>
+        <file alias="images/car_object2.png">images/icons/car_object2.png</file>
+        <file alias="images/circle.png">images/icons/circle.png</file>
+        <file alias="images/edit_add_adv.png">images/icons/edit_add_adv.png</file>
+        <file alias="images/bin.png">images/icons/bin.png</file>
+    </qresource>
+    <qresource prefix="/marks">
+        <file alias="mark0.png">images/marks/mark0.png</file>
+        <file alias="mark1.png">images/marks/mark1.png</file>
+        <file alias="mark2.png">images/marks/mark2.png</file>
+    </qresource>
+    <qresource prefix="/shops">
+        <file alias="shop.png">images/shops/shop.png</file>
+    </qresource>
+    <qresource prefix="/storages">
+        <file alias="storage.png">images/storages/storage.png</file>
+    </qresource>
+    <qresource prefix="/cars">
+        <file alias="car_object0.png">images/cars/car_object0.png</file>
+        <file alias="car.png">images/icons/car_object2.png</file>
+    </qresource>
+</RCC>
